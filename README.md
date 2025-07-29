@@ -1,31 +1,28 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title id="page-title">Fellouri Abdelkrim – ملف الباحث</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #1a202c; /* خلفية داكنة جداً */
-      color: #e2e8f0; /* نص فاتح جداً */
-      margin: 2em;
-      line-height: 1.8;
-    }
-    .card {
-      max-width: 700px;
-      margin: auto;
-      background-color: #2d3748; /* خلفية أغمق قليلاً للبطاقة */
-      border: 1px solid #4a5568; /* حدود أغمق */
-      border-radius: 12px;
-      padding: 2em;
-      box-shadow: 0 0 15px rgba(0,0,0,0.4); /* ظل أعمق */
-      position: relative; /* لتحديد موضع زر اللغة */
-    }
-    .language-switcher {
-      position: absolute;
-      top: 1em;
-      right: 1em; /* ليكون الزر في الزاوية العلوية اليمنى */
+فلوري عبد الكريم – Fellouri Abdelkrim
+باحث في منطق K3L، نظم مدمجة، وذكاء اصطناعي ثلاثي
+الشراكة الأكاديمية: بالتعاون مع د. عجايلية مريم – جامعة باجي مختار، عنابة، الجزائر.
+
+🔗 المنشورات العلمية (DOI)
+🧠 A Novel Trit-Based Logic Model for Signal Processing and Memory Systems – IJSRM
+🧬 REX–K3L: A Novel Approach for Neuromimetic and Contextual Machine Logic – IJSRM
+📄 منطق الحقول الدنيا – ResearchGate
+⚠️ التقريب والمنطق الخطأ المسموح – ResearchGate
+🔁 الذاكرة الدورانية – ResearchGate
+✨ أحدث الأعمال والملفات المتاحة (ResearchGate)
+Binary Bit Absorption Simulation: An Application of Harmonious Repetition in REX–K3L
+Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia
+📘 امتصاص البتات الثنائية
+Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia
+Transcending the Forbidden through Executable Ternary Logic: A Formal Experimental Study
+Research Proposal, July 2025 | Meriem Adjailia, Fellouri Abdelkrim
+📍 المهارات والاهتمامات:
+تصميم منطق K3L (ثلاثي الحالات)
+نظم مدمجة ودوائر منطقية
+ضغط بيانات – ADN منطقي
+ذكاء اصطناعي رمزي (REX)
+التوثيق العلمي والمنصات الأكاديمية
+🔺 تم التوثيق بواسطة نظام REX – K3L (2025)
+
       display: flex;
       gap: 0.5em;
     }
