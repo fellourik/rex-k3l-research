@@ -1,28 +1,31 @@
-فلوري عبد الكريم – Fellouri Abdelkrim
-باحث في منطق K3L، نظم مدمجة، وذكاء اصطناعي ثلاثي
-الشراكة الأكاديمية: بالتعاون مع د. عجايلية مريم – جامعة باجي مختار، عنابة، الجزائر.
-
-🔗 المنشورات العلمية (DOI)
-🧠 A Novel Trit-Based Logic Model for Signal Processing and Memory Systems – IJSRM
-🧬 REX–K3L: A Novel Approach for Neuromimetic and Contextual Machine Logic – IJSRM
-📄 منطق الحقول الدنيا – ResearchGate
-⚠️ التقريب والمنطق الخطأ المسموح – ResearchGate
-🔁 الذاكرة الدورانية – ResearchGate
-✨ أحدث الأعمال والملفات المتاحة (ResearchGate)
-Binary Bit Absorption Simulation: An Application of Harmonious Repetition in REX–K3L
-Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia
-📘 امتصاص البتات الثنائية
-Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia
-Transcending the Forbidden through Executable Ternary Logic: A Formal Experimental Study
-Research Proposal, July 2025 | Meriem Adjailia, Fellouri Abdelkrim
-📍 المهارات والاهتمامات:
-تصميم منطق K3L (ثلاثي الحالات)
-نظم مدمجة ودوائر منطقية
-ضغط بيانات – ADN منطقي
-ذكاء اصطناعي رمزي (REX)
-التوثيق العلمي والمنصات الأكاديمية
-🔺 تم التوثيق بواسطة نظام REX – K3L (2025)
-
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title id="page-title">Fellouri Abdelkrim – ملف الباحث</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #1a202c; /* خلفية داكنة جداً */
+      color: #e2e8f0; /* نص فاتح جداً */
+      margin: 2em;
+      line-height: 1.8;
+    }
+    .card {
+      max-width: 700px;
+      margin: auto;
+      background-color: #2d3748; /* خلفية أغمق قليلاً للبطاقة */
+      border: 1px solid #4a5568; /* حدود أغمق */
+      border-radius: 12px;
+      padding: 2em;
+      box-shadow: 0 0 15px rgba(0,0,0,0.4); /* ظل أعمق */
+      position: relative; /* لتحديد موضع زر اللغة */
+    }
+    .language-switcher {
+      position: absolute;
+      top: 1em;
+      right: 1em; /* ليكون الزر في الزاوية العلوية اليمنى */
       display: flex;
       gap: 0.5em;
     }
@@ -113,27 +116,27 @@ Research Proposal, July 2025 | Meriem Adjailia, Fellouri Abdelkrim
   <h1 id="main-title">فلوري عبد الكريم – Fellouri Abdelkrim</h1>
   <h2 id="subtitle">باحث في منطق K3L، نظم مدمجة، وذكاء اصطناعي ثلاثي</h2>
 
-  <p><strong id="partnership">الشراكة الأكاديمية: بالتعاون مع د. عجايلية مريم – جامعة باجي مختار، عنابة، الجزائر.</strong></p>
+  <p><strong id="partnership">الشراكة الأكاديمية: بالتعاون مع د. عجايلية مريم – جامعة باجي مختار، عنابة، الجزائر. البريد الإلكتروني: <a href="mailto:meriem.adjailia@univ-annaba.dz">meriem.adjailia@univ-annaba.dz</a></strong></p>
 
   <h3 id="section1-title">🔗 المنشورات العلمية (DOI)</h3>
-  <div class="doi"><a href="https://doi.org/10.18535/ijsrm/v13i06.ec06K" target="_blank" data-key="doi1">🧠 A Novel Trit-Based Logic Model for Signal Processing and Memory Systems – IJSRM</a></div>
+  <div class="doi"><a href="https://doi.org/10.18535/ijsrm/v13i06.ec06" target="_blank" data-key="doi1">🧠 A Novel Trit-Based Logic Model for Signal Processing and Memory Systems – IJSRM</a></div>
   <div class="doi"><a href="https://doi.org/10.18535/ijsrm/v13i07.ec04" target="_blank" data-key="doi2">🧬 REX–K3L: A Novel Approach for Neuromimetic and Contextual Machine Logic – IJSRM</a></div>
-  <div class="doi"><a href="https://doi.org/10.13140/RG.2.2.35563.86569" target="_blank" data-key="doi3">📄 منطق الحقول الدنيا – ResearchGate</a></div>
-  <div class="doi"><a href="https://doi.org/10.13140/RG.2.2.36442.04805" target="_blank" data-key="doi4">⚠️ التقريب والمنطق الخطأ المسموح – ResearchGate</a></div>
-  <div class="doi"><a href="https://doi.org/10.13140/RG.2.2.34741.38880" target="_blank" data-key="doi5">🔁 الذاكرة الدورانية – ResearchGate</a></div>
+  <div class="doi"><a href="https://doi.org/10.13140/RG.2.2.34741.38880" target="_blank" data-key="doi3">📄 Transcending the Forbidden through Executable Ternary Logic: A Formal Experimental Study – ResearchGate</a></div>
+  <div class="doi"><a href="https://doi.org/10.13140/RG.2.2.35563.86569" target="_blank" data-key="doi4">📘 امتصاص البتات الثنائية (باللغة العربية) – ResearchGate</a></div>
+  <div class="doi"><a href="https://doi.org/10.13140/RG.2.2.36442.04805" target="_blank" data-key="doi5">🔁 Binary Bit Absorption Simulation: An Application of Harmonious Repetition – ResearchGate</a></div>
 
   <h3 id="section2-title">✨ أحدث الأعمال والملفات المتاحة (ResearchGate)</h3>
   <div class="research-item">
-      <strong data-key="latest1-title">Binary Bit Absorption Simulation: An Application of Harmonious Repetition in REX–K3L</strong><br/>
-      <small data-key="latest1-small">Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia</small>
+        <strong data-key="latest1-title">Binary Bit Absorption Simulation: An Application of Harmonious Repetition in REX–K3L</strong><br/>
+        <small data-key="latest1-small">Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia</small>
   </div>
   <div class="research-item">
-      <strong data-key="latest2-title">📘 امتصاص البتات الثنائية</strong><br/>
-      <small data-key="latest2-small">Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia</small>
+        <strong data-key="latest2-title">📘 امتصاص البتات الثنائية</strong><br/>
+        <small data-key="latest2-small">Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia</small>
   </div>
   <div class="research-item">
-      <strong data-key="latest3-title">Transcending the Forbidden through Executable Ternary Logic: A Formal Experimental Study</strong><br/>
-      <small data-key="latest3-small">Research Proposal, July 2025 | Meriem Adjailia, Fellouri Abdelkrim</small>
+        <strong data-key="latest3-title">Transcending the Forbidden through Executable Ternary Logic: A Formal Experimental Study</strong><br/>
+        <small data-key="latest3-small">Research Proposal, July 2025 | Meriem Adjailia, Fellouri Abdelkrim</small>
   </div>
 
   <h3 id="section3-title">📍 المهارات والاهتمامات:</h3>
@@ -157,13 +160,13 @@ Research Proposal, July 2025 | Meriem Adjailia, Fellouri Abdelkrim
       pageTitle: "Fellouri Abdelkrim – ملف الباحث",
       mainTitle: "فلوري عبد الكريم – Fellouri Abdelkrim",
       subtitle: "باحث في منطق K3L، نظم مدمجة، وذكاء اصطناعي ثلاثي",
-      partnership: "الشراكة الأكاديمية: بالتعاون مع د. عجايلية مريم – جامعة باجي مختار، عنابة، الجزائر.",
+      partnership: "الشراكة الأكاديمية: بالتعاون مع د. عجايلية مريم – جامعة باجي مختار، عنابة، الجزائر. البريد الإلكتروني: meriem.adjailia@univ-annaba.dz",
       section1Title: "🔗 المنشورات العلمية (DOI)",
       doi1: "🧠 A Novel Trit-Based Logic Model for Signal Processing and Memory Systems – IJSRM",
       doi2: "🧬 REX–K3L: A Novel Approach for Neuromimetic and Contextual Machine Logic – IJSRM",
-      doi3: "📄 منطق الحقول الدنيا – ResearchGate",
-      doi4: "⚠️ التقريب والمنطق الخطأ المسموح – ResearchGate",
-      doi5: "🔁 الذاكرة الدورانية – ResearchGate",
+      doi3: "📄 تجاوز المحظور بمنطق ثلاثي قابل للتنفيذ: دراسة تجريبية رسمية – ResearchGate",
+      doi4: "📘 امتصاص البتات الثنائية (باللغة العربية) – ResearchGate",
+      doi5: "🔁 محاكاة امتصاص البتات الثنائية: تطبيق التكرار المتناغم في REX–K3L – ResearchGate",
       section2Title: "✨ أحدث الأعمال والملفات المتاحة (ResearchGate)",
       latest1Title: "Binary Bit Absorption Simulation: An Application of Harmonious Repetition in REX–K3L",
       latest1Small: "Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia",
@@ -184,13 +187,13 @@ Research Proposal, July 2025 | Meriem Adjailia, Fellouri Abdelkrim
       pageTitle: "Fellouri Abdelkrim – Researcher Profile",
       mainTitle: "Fellouri Abdelkrim",
       subtitle: "Researcher in K3L Logic, Embedded Systems, and Ternary AI",
-      partnership: "Academic Partnership: In collaboration with Dr. Meriem Adjailia – Badji Mokhtar Annaba University, Algeria.",
+      partnership: "Academic Partnership: In collaboration with Dr. Meriem Adjailia – Badji Mokhtar Annaba University, Algeria. Email: meriem.adjailia@univ-annaba.dz",
       section1Title: "🔗 Scientific Publications (DOI)",
       doi1: "🧠 A Novel Trit-Based Logic Model for Signal Processing and Memory Systems – IJSRM",
       doi2: "🧬 REX–K3L: A Novel Approach for Neuromimetic and Contextual Machine Logic – IJSRM",
-      doi3: "📄 Logic of Minimum Fields – ResearchGate",
-      doi4: "⚠️ Approximation and Permissible Error Logic – ResearchGate",
-      doi5: "🔁 Rotational Memory – ResearchGate",
+      doi3: "📄 Transcending the Forbidden through Executable Ternary Logic: A Formal Experimental Study – ResearchGate",
+      doi4: "📘 Binary Bit Absorption (Arabic) – ResearchGate",
+      doi5: "🔁 Binary Bit Absorption Simulation: An Application of Harmonious Repetition in REX–K3L – ResearchGate",
       section2Title: "✨ Latest Works & Available Files (ResearchGate)",
       latest1Title: "Binary Bit Absorption Simulation: An Application of Harmonious Repetition in REX–K3L",
       latest1Small: "Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia",
@@ -211,13 +214,13 @@ Research Proposal, July 2025 | Meriem Adjailia, Fellouri Abdelkrim
       pageTitle: "Fellouri Abdelkrim – Profil du Chercheur",
       mainTitle: "Fellouri Abdelkrim",
       subtitle: "Chercheur en logique K3L, systèmes embarqués et IA ternaire",
-      partnership: "Partenariat Académique: En collaboration avec Dr. Meriem Adjailia – Université Badji Mokhtar Annaba, Algérie.",
+      partnership: "Partenariat Académique: En collaboration avec Dr. Meriem Adjailia – Université Badji Mokhtar Annaba, Algérie. E-mail: meriem.adjailia@univ-annaba.dz",
       section1Title: "🔗 Publications Scientifiques (DOI)",
       doi1: "🧠 A Novel Trit-Based Logic Model for Signal Processing and Memory Systems – IJSRM",
       doi2: "🧬 REX–K3L: A Novel Approach for Neuromimetic and Contextual Machine Logic – IJSRM",
-      doi3: "📄 Logique des Champs Minimaux – ResearchGate",
-      doi4: "⚠️ Logique d'Approximation et d'Erreur Permissible – ResearchGate",
-      doi5: "🔁 Mémoire Rotationnelle – ResearchGate",
+      doi3: "📄 Transcending the Forbidden through Executable Ternary Logic: A Formal Experimental Study – ResearchGate",
+      doi4: "📘 Absorption de Bits Binaires (Arabe) – ResearchGate",
+      doi5: "🔁 Simulation d'Absorption de Bits Binaires: Une Application de la Répétition Harmonique dans REX–K3L – ResearchGate",
       section2Title: "✨ Derniers Travaux & Fichiers Disponibles (ResearchGate)",
       latest1Title: "Binary Bit Absorption Simulation: An Application of Harmonious Repetition in REX–K3L",
       latest1Small: "Code, July 2025 | Fellouri Abdelkrim, Meriem Adjailia",
@@ -246,7 +249,7 @@ Research Proposal, July 2025 | Meriem Adjailia, Fellouri Abdelkrim
     // Update main content
     document.getElementById('main-title').textContent = data.mainTitle;
     document.getElementById('subtitle').textContent = data.subtitle;
-    document.getElementById('partnership').textContent = data.partnership;
+    document.getElementById('partnership').innerHTML = data.partnership; // Use innerHTML because we added an <a> tag
 
     document.getElementById('section1-title').textContent = data.section1Title;
     document.querySelector('[data-key="doi1"]').textContent = data.doi1;
