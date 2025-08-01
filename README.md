@@ -1,4 +1,16 @@
-
+ <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0004-4589-0761"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0004-4589-0761
+    </a>
 
   <h1 id="main-title">فلوري عبد الكريم – Fellouri Abdelkrim</h1>
   <h2 id="subtitle">باحث في منطق K3L، نظم مدمجة، وذكاء اصطناعي ثلاثي</h2>
